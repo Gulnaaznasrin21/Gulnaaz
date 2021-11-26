@@ -1,0 +1,24 @@
+.had{
+    background-color:blueviolet;
+    height: 90px;
+    width: 90%;
+    border-radius: 0px 0px 0px 20px;
+
+}
+ul li{
+    display: inline;
+    float: right;
+    position: relative;
+    top:30px;
+    padding: 30px;
+}
+.name{
+    position: relative;
+    float: left;
+    top: 20px;
+}
+/* .box{
+    height: 700px;
+    width: 1000px;
+    background-image: url(undraw_static_assets_rpm6);
+} */
